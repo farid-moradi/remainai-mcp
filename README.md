@@ -43,3 +43,7 @@ Every connection is approved by you, per permission, and listed in RemainAI's Se
 ## Support
 
 support@remainai.org
+
+## License
+
+The contents of this repository (this documentation and the registry entry) are under the MIT License. Using the hosted service is covered by RemainAI's terms: https://remainai.org/terms
