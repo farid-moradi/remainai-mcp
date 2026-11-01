@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "org.remainai/remainai",
+  "title": "RemainAI",
+  "description": "Your notes, todos, feeds and rituals, filed under your own tags, open to any AI agent.",
+  "version": "1.0.0",
+  "websiteUrl": "https://remainai.org/mcp-memory",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.remainai.org/mcp"
+    }
+  ]
+}
